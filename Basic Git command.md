@@ -39,7 +39,7 @@
 <li><code>git add .</code></li>
 <p>To add a all changed file int .git.</p>
 
-<li><code>git commit -m "messages"</code></li>
+<li><code>git commit -m "Message"</code></li>
 <p>Git commit messages are necessary to look back and see the changes made during a particular commit.</p>
 
 <li><code>git log</code></li>
